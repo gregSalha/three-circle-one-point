@@ -1,0 +1,14 @@
+[project]
+name = "three-circle-one-point"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "numpy>=2.4.4",
+    "plotly>=6.7.0",
+    "polars>=1.40.1",
+    "nbformat>=4.2.0",
+    "scipy>=1.17.1",
+]
